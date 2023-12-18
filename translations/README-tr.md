@@ -1361,32 +1361,32 @@ Mock Interviews:
 - If you are trying to find new job opportunities, or if you are trying to find internships, if want to know about the salary of a job role in any companies or want to just know about the company reputation before applying to that company, here are the list of platforms which can help you find the above answers and more. 
 - [Best Websites for Careers & Jobs](https://ayedot.com/151/MiniBlog/Top-10-Best-Websites-for-Careers--Jobs)
 
-## Your Resume
+## Özgeçmişiniz/CV'niz
 
-- See Resume prep items in Cracking The Coding Interview and back of Programming Interviews Exposed
-- Very Important thing to remember while creating your resume, if you applying for big companies is that make it ATS Compliant. 
-- [How to Create or Check if your Resume is ATS Compliant](https://ayedot.com/97/MiniBlog/Meaning-of-ATS-compliant-resume-and-How-to-create-ATS-Resume-for-Free)
+- Cracking the Coding Interview kitabındaki hazırlık ögelerini ve Programming Interviews Exposed'un arka sayfasını inceleyin.
+- Özgeçmişinizi hazırlarken önemli bir detay; büyük firmalara başvuruyorsanız özgeçmişiniz ATS'ye uyumlu olmalı.
+- [Özgeçmişinizin ATS'ye Uyumlu Olup Olmadığını Konrol Edin/ATS'yee Göre Hazırlayın](https://ayedot.com/97/MiniBlog/Meaning-of-ATS-compliant-resume-and-How-to-create-ATS-Resume-for-Free)
 
-## Be thinking of for when the interview comes
+## Mülakat geldiği an hazır olun
 
-Think of about 20 interview questions you'll get, along with the lines of the items below. Have 2-3 answers for each.
-Have a story, not just data, about something you accomplished.
+Mülakatta aşağıdaki soruların yanı sıra size sorulacak yaklaşık 20 soruyu düşünün. Her biri için 2-3 cevabınız olsun.
+Başardığınız bir şeyle ilgili sadece veri olmasın, bunun için bir hikayeniz de hazır olsun.
 
-- Why do you want this job?
-- What's a tough problem you've solved?
-- Biggest challenges faced?
-- Best/worst designs seen?
-- Ideas for improving an existing product
-- How do you work best, as an individual and as part of a team?
-- Which of your skills or experiences would be assets in the role and why?
-- What did you most enjoy at [job x / project y]?
-- What was the biggest challenge you faced at [job x / project y]?
-- What was the hardest bug you faced at [job x / project y]?
-- What did you learn at [job x / project y]?
-- What would you have done better at [job x / project y]?
+- Bu işi neden istiyorsun?
+- Çözdüğün zorlu bir probleme örnek verebilir misin?
+- Karşılaştığın en büyük zorluklar nelerdi?
+- Gördüğün en iyi/kötü tasarımlar?
+- Var olan bir ürünü geliştirmek için fikirler
+- Birey olarak mı, bir takımın parçası olarak mı en iyi şekilde çalışırsın?
+- Bu pozisyonda hangi tecrübelerin/becerilerin katkı sağlayabilir?
+- [iş x / proje y]'de en çok neyden keyif aldın?
+- [iş x / proje y]'de karşılaştığın en büyük zorluk neydi?
+- [iş x / proje y]'de karşılaştığın en zor hata neydi?
+- [iş x / proje y]'de ne öğrendin?
+- [iş x / proje y]'de neyi daha iyi yapabilirdin?
 
 
-- If you find hard to come up with good answers of this type interview questions, you can refer below link for some answer templates and have some idea. 
+- Bu tip sorulara güzel cevaplar hazırlamakta zorlandıysanız biraz daha fikir edinmek ve cevap örneklerine ulaşmak için aşağıdaki adresi inceleyebilirsiniz.
 - [General Interview Questions and their Answers](https://ayedot.com/119/MiniBlog/General-Interview-Questions-and-their-Answers-for-Tech-Jobs)
 
 
@@ -1406,13 +1406,13 @@ Have a story, not just data, about something you accomplished.
 - İş yaşam dengesi nasıldır?
 
 
-## Once You've Got The Job
+## İşi Kaptığınızda
 
-Congratulations!
+Tebrikler!
 
-Keep learning.
+Öğrenmeye devam edin.
 
-You're never really done.
+Daha alacak çok yolunuz var.
 
 ---
 
